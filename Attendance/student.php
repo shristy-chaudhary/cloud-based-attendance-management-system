@@ -69,7 +69,7 @@
    <!-- FOOTER -->
       <footer style="background:; height:;">
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2017 ProjectWorlds, Inc. &middot;  developed by  <a href="https://facebook.com/yugesh.verma.35">Yugesh Verma </a><a href="http://projectworlds.in">Privacy</a> &middot; <a href="http://projectworlds.in">Terms</a></p>
+        <p>&copy; 2024 ProjectWorlds, Inc. &middot;  developed by  <a href="https://github.com/shristy-chaudhary/cloud-based-attendance-management-system.git">Shristy Chaudhary </a><a href="http://projectworlds.in">Privacy</a> &middot; <a href="http://projectworlds.in">Terms</a></p>
       </footer>
 
     
